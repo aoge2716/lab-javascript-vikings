@@ -1,6 +1,6 @@
 // Soldier
 class Soldier {
-    colorasd
+    constructor
 }
 
 // Viking
